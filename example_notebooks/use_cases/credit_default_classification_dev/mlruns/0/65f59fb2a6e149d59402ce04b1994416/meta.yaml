@@ -1,0 +1,14 @@
+artifact_uri: /Users/req89250/github-repos/ISQA8080/credit_default_classification/mlruns/0/65f59fb2a6e149d59402ce04b1994416/artifacts
+end_time: 1576704680906
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: 65f59fb2a6e149d59402ce04b1994416
+source_name: /Users/req89250/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py
+source_type: 4
+source_version: ''
+start_time: 1576704680532
+status: 3
+tags: []
+user_id: req89250
